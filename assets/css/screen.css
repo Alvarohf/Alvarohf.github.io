@@ -21,6 +21,11 @@ a:hover {
     text-decoration: none;
 }
 
+h1 {
+     background: linear-gradient(315deg, #abe9cd 0%, #3eadcf 50%,#01BAEF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 pre {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
