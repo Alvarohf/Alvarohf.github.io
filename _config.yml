@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl:
 google_analytics: 'G-H3HK12GQS0'
-disqus: 'alvarohf'
+disqus: 'https-alvarohf-github-io'
 mailchimp-list: 'https://github.us2.list-manage.com/subscribe/post?u=7208fccdae9bc64cd10d3fcaf&amp;id=265d5a0751'
 include: ["_pages"]
 permalink: /:title/
