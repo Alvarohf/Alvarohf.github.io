@@ -5,7 +5,7 @@ description: "A page about me, my projects, interests and posts."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl:
-google_analytics: 'UA-46278016-1'
+google_analytics: 'G-H3HK12GQS0'
 disqus: 'alvarohf'
 mailchimp-list: 'https://chimpstatic.com/mcjs-connected/js/users/7208fccdae9bc64cd10d3fcaf/8bb3afeaddc112b8578aaa59e.js'
 include: ["_pages"]
