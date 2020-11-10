@@ -3,16 +3,16 @@
 # Change this file for any custom CSS.
 ---
 
-/* We need to add display:inline in order to align the '>>' of the 'read more' link */
-.post-excerpt p {
-	display:inline;
-}
 h1 {
      background: linear-gradient(315deg, #abe9cd 0%, #3eadcf 74%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 .blue-gradient: linear-gradient(315deg, #abe9cd 0%, #3eadcf 74%);
+/* We need to add display:inline in order to align the '>>' of the 'read more' link */
+.post-excerpt p {
+	display:inline;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
