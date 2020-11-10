@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl:
 google_analytics: 'UA-46278016-1'
 disqus: 'alvarohf'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://chimpstatic.com/mcjs-connected/js/users/7208fccdae9bc64cd10d3fcaf/8bb3afeaddc112b8578aaa59e.js'
 include: ["_pages"]
 permalink: /:title/
 
