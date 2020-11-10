@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl:
 google_analytics: 'G-H3HK12GQS0'
 disqus: 'alvarohf'
-mailchimp-list: 'https://chimpstatic.com/mcjs-connected/js/users/7208fccdae9bc64cd10d3fcaf/8bb3afeaddc112b8578aaa59e.js'
+mailchimp-list: 'https://github.us2.list-manage.com/subscribe/post?u=7208fccdae9bc64cd10d3fcaf&amp;id=265d5a0751'
 include: ["_pages"]
 permalink: /:title/
 
