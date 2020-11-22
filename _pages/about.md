@@ -13,10 +13,12 @@ I collect minerals, silver coins, films and videogames, because while you are co
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 <h4>Work experience</h4>
+<ul>
+  <li>EspacioIT internship (3 months 2019)</li>
+  <li>Vodafone Internship (7 months 2020)</li>
+  <li>Vodafone Software Developer Graduate - Currently</li>
+</ul>
 
-* EspacioIT internship (3 months 2019)
-* Vodafone Internship (7 months 2020)
-* Vodafone Software Developer Graduate - Currently
 <h4>Education</h4>
 
 * Liceo Caracense
