@@ -8,15 +8,13 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Here you can find a list with all the projects I have done or I am working right now. Feel free to give your opinion or help with them.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
+<h4>Alien species prediction with Machine Learning</h4>
+<h4>Finding maximum and minimum elevation in a map with genetic algorithms</h4>
+<h4>Minimax python game made with pygame</h4>
+<h4>2048 game implemented with NVIDIA CUDA</h4>
+<h4>Racket graph search with visualizations</h4>
 <p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
 
 </div>
@@ -24,11 +22,9 @@ comments: true
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Check out my projects!</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<p>You can see them or fork them in my <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll"> Github <i class="fab fa-github"></i></a>.</p>
 
 </div>
 </div>
