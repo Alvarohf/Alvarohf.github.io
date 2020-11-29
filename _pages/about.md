@@ -51,9 +51,9 @@ I collect minerals, silver coins, films and videogames, because while you are co
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee or help</h5>
 
-<p>Thank you for your attention! It makes me happy and help me a lot. You can check my<a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github <i class="fab fa-github"></i></a>.</p>
+<p>Thank you for your attention! It makes me happy and help me a lot. You can check my <a target="_blank" href="https://github.com/Alvarohf">Github <i class="fab fa-github"></i></a>.</p>
 
-<a target="_blank" href="paypal.me/delasHerasF" class="btn btn-danger">Buy me a coffee <i class="fas fa-coffee"></i></a>
+<a target="_blank" href="https://paypal.me/delasHerasF" class="btn btn-danger">Buy me a coffee <i class="fas fa-coffee"></i></a>
 
 </div>
 </div>
