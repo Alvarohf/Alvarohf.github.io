@@ -5,7 +5,9 @@
 .mainheading {
     padding: 1rem 0rem;
 }
-
+.about-img {
+    max-height: 40px;
+}
 a {
     color: #00ab6b;
     transition: all 0.2s;
