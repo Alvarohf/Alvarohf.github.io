@@ -8,18 +8,43 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 <div class="row">
-<img class="shadow-lg col-md-4" src="{{site.baseurl}}/assets/images/about.png" alt="a picture of me" />
+<img class="shadow-lg col-md-4" src="{{site.baseurl}}/assets/images/about.jpg" alt="a picture of me" />
 <p class="col-md-8">Hello, my name is Alvaro de las Heras. I am from Guadalajara (the spanish one). I love learning new things about the world, tech or nature. That is the reason why I love collecting a lot of things and programming.
 I collect minerals, silver coins, films and videogames, because while you are collecting you are learning. Also I am an active in some social media like Linkedin, Steam, Reddit and Forocoches. Other of my passions is farming (my father's work) where you can join the nature while working, but It isn't fair paid.</p>
 </div>
 <h4>Skills <i class="fas fa-book"></i></h4>
+<div class="row">
+  <div class="col-md-4">
+   .NET, ASP.NET, C# and Visual Studio.
+   <div class="circle" id="circles-1"></div>
+  </div>
+  <div class="col-md-4">
+  PowerBI and KPI management.
+  <div class="circle" id="circles-2"></div>
+  </div>
+  <div class="col-md-4">
+  Creativeness and easy learning.
+  <div class="circle" id="circles-3"></div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-4">
+   Machine learning, AI
+   <div class="circle" id="circles-1"></div>
+  </div>
+  <div class="col-md-4">
+  Teamwork and team leadership.
+  <div class="circle" id="circles-2"></div>
+  </div>
+  <div class="col-md-4">
+   HTML, Javascript, CSS, JQuery and Maps frameworks.
+  <div class="circle" id="circles-3"></div>
+  </div>
+</div>
 <ul> 
-  <li> .NET, ASP.NET, C# and Visual Studio. <div class="circle" id="circles-1"></div></li>
-  <li> PowerBI and KPI management.</li>
-  <li> Creativeness and easy learning.</li>
-  <li> Machine learning, AI</li>
-  <li> Teamwork and team leadership.</li>
-  <li> HTML, Javascript, CSS, JQuery and Maps frameworks.</li>
+  <li> </li>
+  <li> </li>
+  <li></li>
   <li> Java, C and Scala knowledge.</li>
   <li> NVIDIA CUDA Programming for parallel programming. </li>
   <li> Microsoft Azure deployment and web management.</li>
