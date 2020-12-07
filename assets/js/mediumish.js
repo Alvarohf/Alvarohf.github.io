@@ -111,8 +111,8 @@ jQuery(document).ready(function($){
         $(this).removeClass('spoiler');
      });
     
-     // gr<ph circles
-     var myCircle = Circles.create({
+     // graph circles
+     Circles.create({
       id:                  'circles-1',
       radius:              60,
       value:               43,
@@ -120,6 +120,86 @@ jQuery(document).ready(function($){
       width:               10,
       text:                function(value){return value + '%';},
       colors:              ['#D3B6C6', '#4B253A'],
+      duration:            400,
+      wrpClass:            'circles-wrp',
+      textClass:           'circles-text',
+      valueStrokeClass:    'circles-valueStroke',
+      maxValueStrokeClass: 'circles-maxValueStroke',
+      styleWrapper:        true,
+      styleText:           true
+    });
+    Circles.create({
+      id:                  'circles-2',
+      radius:              60,
+      value:               43,
+      maxValue:            100,
+      width:               10,
+      text:                function(value){return value + '%';},
+      colors:              ['#D3B6C6', '#4B253A'],
+      duration:            400,
+      wrpClass:            'circles-wrp',
+      textClass:           'circles-text',
+      valueStrokeClass:    'circles-valueStroke',
+      maxValueStrokeClass: 'circles-maxValueStroke',
+      styleWrapper:        true,
+      styleText:           true
+    });
+    Circles.create({
+      id:                  'circles-3',
+      radius:              60,
+      value:               43,
+      maxValue:            100,
+      width:               10,
+      text:                function(value){return value + '%';},
+      colors:              ['#4B88A2', '#1D1E2C'],
+      duration:            400,
+      wrpClass:            'circles-wrp',
+      textClass:           'circles-text',
+      valueStrokeClass:    'circles-valueStroke',
+      maxValueStrokeClass: 'circles-maxValueStroke',
+      styleWrapper:        true,
+      styleText:           true
+    });
+    Circles.create({
+      id:                  'circles-4',
+      radius:              60,
+      value:               43,
+      maxValue:            100,
+      width:               10,
+      text:                function(value){return value + '%';},
+      colors:              ['#BB0A21', '#DE3C4B'],
+      duration:            400,
+      wrpClass:            'circles-wrp',
+      textClass:           'circles-text',
+      valueStrokeClass:    'circles-valueStroke',
+      maxValueStrokeClass: 'circles-maxValueStroke',
+      styleWrapper:        true,
+      styleText:           true
+    });
+    Circles.create({
+      id:                  'circles-5',
+      radius:              60,
+      value:               43,
+      maxValue:            100,
+      width:               10,
+      text:                function(value){return value + '%';},
+      colors:              ['#BB0A21', '#DE3C4B'],
+      duration:            400,
+      wrpClass:            'circles-wrp',
+      textClass:           'circles-text',
+      valueStrokeClass:    'circles-valueStroke',
+      maxValueStrokeClass: 'circles-maxValueStroke',
+      styleWrapper:        true,
+      styleText:           true
+    });
+    Circles.create({
+      id:                  'circles-6',
+      radius:              60,
+      value:               43,
+      maxValue:            100,
+      width:               10,
+      text:                function(value){return value + '%';},
+      colors:              ['#BB0A21', '#DE3C4B'],
       duration:            400,
       wrpClass:            'circles-wrp',
       textClass:           'circles-text',
