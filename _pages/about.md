@@ -2,7 +2,6 @@
 layout: page
 title: About me
 permalink: /about
-comments: true
 ---
 
 <div class="row justify-content-between">
@@ -37,34 +36,49 @@ I collect minerals, silver coins, films and videogames, because while you are co
   </div>
 </div>
 <div class="row mt-3">
-<div class="card col-md-4 text-center" >
+  <div class="card col-md-4 text-center" >
     <div class="circle mt-3" id="circles-4"></div>
     <div class="card-body">
       <h5 class="card-title">Machine learning and AI</h5>
       <p class="card-text">Data science has always been one of my interests, because I think It will be the future. This is the reason I have created a few ML projects as alien species one.</p>
     </div>
   </div>
-  <div class="col-md-4">
-  <b>Java, C and Scala knowledge</b>
-  <div class="circle text-center" id="circles-5"></div>
+  <div class="card col-md-4 text-center" >
+    <div class="circle mt-3" id="circles-5"></div>
+    <div class="card-body">
+      <h5 class="card-title">Java, C and Scala knowledge</h5>
+      <p class="card-text">During my career I have been coding in different programming languages, but the more common ones were these ones.</p>
+    </div>
   </div>
-  <div class="col-md-4">
-   <b>HTML, Javascript, CSS, JQuery and Maps frameworks</b>
-  <div class="circle text-center" id="circles-6"></div>
+  <div class="card col-md-4 text-center" >
+    <div class="circle mt-3" id="circles-6"></div>
+    <div class="card-body">
+      <h5 class="card-title">HTML, Javascript, CSS, JQuery and Maps frameworks</h5>
+      <p class="card-text">I have learn a lot of front-end to been capable of make real my projects, because back-end isn't enough, even learning a few maps frameworks and GIS.</p>
+    </div>
   </div>
 </div>
 <div class="row mt-3">
-  <div class="col-md-4">
-   <b>Microsoft Azure deployment and web management</b>
-   <div class="circle text-center" id="circles-7"></div>
+  <div class="card col-md-4 text-center" >
+    <div class="circle mt-3" id="circles-7"></div>
+    <div class="card-body">
+      <h5 class="card-title">Microsoft Azure deployment and web management</h5>
+      <p class="card-text">To make my webs public I have had to deploy them on servers and the cloud, but I always chose Azure because It gave a lot of free credit to experiment with.</p>
+    </div>
   </div>
-  <div class="col-md-4 text-center">
-  <b>Databases: MongoDB, MSQL Server and PostgreSQL</b>
-  <div class="circle text-center" id="circles-8"></div>
+    <div class="card col-md-4 text-center" >
+    <div class="circle mt-3" id="circles-8"></div>
+    <div class="card-body">
+      <h5 class="card-title">Databases: MongoDB, MSQL Server and PostgreSQL</h5>
+      <p class="card-text">Most of the webs need databases to store results or resources, but each database system is unique, that is why I have tried a few of them.</p>
+    </div>
   </div>
-  <div class="col-md-4 text-center">
-  <b>RGPD Knowledge</b>
-  <div class="circle" id="circles-9"></div>
+    <div class="card col-md-4 text-center" >
+    <div class="circle mt-3" id="circles-9"></div>
+    <div class="card-body">
+      <h5 class="card-title">RGPD Knowledge</h5>
+      <p class="card-text">Living in Europe brings up new problems as private data policies, that I have to know clearly to avoid legal problems.</p>
+    </div>
   </div>
 </div>
 
