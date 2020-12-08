@@ -82,7 +82,7 @@ I collect minerals, silver coins, films and videogames, because while you are co
   </div>
 </div>
 
-<h4>Work experience <i class="fas fa-briefcase ml-3"></i></h4>
+<h4>Work experience <i class="fas fa-briefcase ml-3 mt-3"></i></h4>
 <ul>
   <li class="mt-2"><b>Vodafone Software Developer Graduate</b> - Currently <img src="{{ site.baseurl }}/assets/images/vodafone.png" alt="Vodafone logo"  class="about-img ml-3"></li>
   <li class="mt-2"><b>Vodafone Internship</b> (7 months 2020)<img src="{{ site.baseurl }}/assets/images/vodafone.png" alt="Vodafone logo"  class="about-img ml-3"></li>
@@ -96,7 +96,7 @@ I collect minerals, silver coins, films and videogames, because while you are co
 </ul>
   <h4>Awards <i class="fas fa-trophy ml-3"></i></h4>
   <ul>
-    <li>UAH Hackthon I - 2nd place <img src="{{ site.baseurl }}/assets/images/hackathon.jpg" alt="Hackathon"></li>
+    <li>UAH Hackthon I - 2nd place <img src="{{ site.baseurl }}/assets/images/hackathon.jpg" alt="Hackathon" class="col-md-7"></li>
     <li>UAH Help Hackthon - 1st place</li>
   </ul>
 </div>
