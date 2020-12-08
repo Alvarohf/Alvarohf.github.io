@@ -34,7 +34,7 @@ I collect minerals, silver coins, films and videogames, because while you are co
    <div class="circle text-center" id="circles-4"></div>
   </div>
   <div class="col-md-4">
-  <b>Java, C and Scala knowledge<b>
+  <b>Java, C and Scala knowledge</b>
   <div class="circle text-center" id="circles-5"></div>
   </div>
   <div class="col-md-4">
