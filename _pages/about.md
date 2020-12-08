@@ -96,9 +96,10 @@ I collect minerals, silver coins, films and videogames, because while you are co
 </ul>
   <h4>Awards <i class="fas fa-trophy ml-3"></i></h4>
   <ul>
-    <li>UAH Hackthon I - 2nd place <img src="{{ site.baseurl }}/assets/images/hackathon.jpg" alt="Hackathon" class="col-md-7"></li>
+    <li>UAH Hackthon I - 2nd place </li>
     <li>UAH Help Hackthon - 1st place</li>
   </ul>
+  <img src="{{ site.baseurl }}/assets/images/hackathon.jpg" alt="Hackathon" class="col-md-7">
 </div>
 
 <div class="col-md-4">
