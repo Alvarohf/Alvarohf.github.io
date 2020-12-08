@@ -14,11 +14,13 @@ I collect minerals, silver coins, films and videogames, because while you are co
 </div>
 <h4>Skills <i class="fas fa-book ml-3 mt-4"></i></h4>
 <div class="row">
-  <div class="col-md-4 text-center">
-   <b>.NET, ASP.NET, C# and Visual Studio</b>
-   <p>I have developed an Intranet for employees to share documents, a web to get the minimum of map using genetic algorithms and my career project for predicting alien species impact with ML.</p>
-   <div class="circle" id="circles-1"></div>
+<div class="card col-md-4 text-center" >
+  <div class="circle" id="circles-1"></div>
+  <div class="card-body">
+    <h5 class="card-title">.NET, ASP.NET, C# and Visual Studio</h5>
+    <p class="card-text">I have developed an Intranet for employees to share documents, a web to get the minimum of map using genetic algorithms and my career project for predicting alien species impact with ML.</p>
   </div>
+</div>
   <div class="col-md-4 text-center">
   <b>PowerBI and KPI management</b>
   <div class="circle" id="circles-2"></div>
