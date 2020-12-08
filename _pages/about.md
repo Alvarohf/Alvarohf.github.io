@@ -14,26 +14,35 @@ I collect minerals, silver coins, films and videogames, because while you are co
 </div>
 <h4>Skills <i class="fas fa-book ml-3 mt-4"></i></h4>
 <div class="row">
+  <div class="card col-md-4 text-center" >
+    <div class="circle mt-3" id="circles-1"></div>
+    <div class="card-body">
+      <h5 class="card-title">.NET, ASP.NET, C# and Visual Studio</h5>
+      <p class="card-text">I have developed an Intranet for employees to share documents, a web to get the minimum of map using genetic algorithms and my career project for predicting alien species impact with ML.</p>
+    </div>
+  </div>
+  <div class="card col-md-4 text-center" >
+    <div class="circle mt-3" id="circles-2"></div>
+    <div class="card-body">
+      <h5 class="card-title">PowerBI and KPI management</h5>
+      <p class="card-text">During my working experience I have worked with PowerBI creating and visualizing strategic KPIs in dashboards.</p>
+    </div>
+  </div>
+  <div class="card col-md-4 text-center" >
+    <div class="circle mt-3" id="circles-3"></div>
+    <div class="card-body">
+      <h5 class="card-title">Creativeness, leadership, team work and easy learning</h5>
+      <p class="card-text">Apart from my computing skills I have a lot of capabilities related to me, specially when I have to work with my team mates or leadering them.</p>
+    </div>
+  </div>
+</div>
+<div class="row mt-3">
 <div class="card col-md-4 text-center" >
-  <div class="circle" id="circles-1"></div>
-  <div class="card-body">
-    <h5 class="card-title">.NET, ASP.NET, C# and Visual Studio</h5>
-    <p class="card-text">I have developed an Intranet for employees to share documents, a web to get the minimum of map using genetic algorithms and my career project for predicting alien species impact with ML.</p>
-  </div>
-</div>
-  <div class="col-md-4 text-center">
-  <b>PowerBI and KPI management</b>
-  <div class="circle" id="circles-2"></div>
-  </div>
-  <div class="col-md-4 text-center">
-  <b>Creativeness, leadership, team work and easy learning</b>
-  <div class="circle" id="circles-3"></div>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-4 text-center">
-   <b>Machine learning, AI</b>
-   <div class="circle text-center" id="circles-4"></div>
+    <div class="circle mt-3" id="circles-4"></div>
+    <div class="card-body">
+      <h5 class="card-title">Machine learning and AI</h5>
+      <p class="card-text">Data science has always been one of my interests, because I think It will be the future. This is the reason I have created a few ML projects as alien species one.</p>
+    </div>
   </div>
   <div class="col-md-4">
   <b>Java, C and Scala knowledge</b>
@@ -44,7 +53,7 @@ I collect minerals, silver coins, films and videogames, because while you are co
   <div class="circle text-center" id="circles-6"></div>
   </div>
 </div>
-<div class="row">
+<div class="row mt-3">
   <div class="col-md-4">
    <b>Microsoft Azure deployment and web management</b>
    <div class="circle text-center" id="circles-7"></div>
