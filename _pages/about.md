@@ -7,7 +7,7 @@ permalink: /about
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 <div class="row">
-<img class="shadow-lg col-md-4 img-fluid" src="{{site.baseurl}}/assets/images/about.jpg" alt="a picture of me" />
+<img class="shadow-lg col-md-4" src="{{site.baseurl}}/assets/images/about.jpg" alt="a picture of me" />
 <p class="col-md-8">Hello, my name is Alvaro de las Heras. I am from Guadalajara (the spanish one). I love learning new things about the world, tech or nature. That is the reason why I love collecting a lot of things and programming.
 I collect minerals, silver coins, films and videogames, because while you are collecting you are learning. Also I am an active in some social media like Linkedin, Steam, Reddit and Forocoches. Other of my passions is farming (my father's work) where you can join the nature while working, but It isn't fair paid.</p>
 </div>
