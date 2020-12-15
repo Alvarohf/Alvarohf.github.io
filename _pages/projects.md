@@ -11,13 +11,16 @@ permalink: /projects
             <a class="display-4 project-title" href="https://github.com/Alvarohf/DamGeneticSystem">Finding maximum and minimum elevation in a map with genetic algorithms</a>
             <p>This system is able to get the minimum or maximum in a map using Google Maps API, software patterns and different genetic algorithms techniques. It is integrated in a web page that allows you to use it.</p>
             <img src="https://raw.githubusercontent.com/Alvarohf/DamGeneticSystem/master/Documentation/Screenshots/cambiarMapa1 .png"  alt="start genetic" />
+            <hr>
             <img class="mt-2" src="https://raw.githubusercontent.com/Alvarohf/DamGeneticSystem/master/Documentation/Screenshots/genetico.png"  alt="genetic algorithm" />
+            <hr>
             <img class="mt-2" src="https://raw.githubusercontent.com/Alvarohf/DamGeneticSystem/master/Documentation/Screenshots/colorearAgua.png"  alt="water color" />
         </div>
         <div class="mt-4">
             <a class="display-4 project-title" href="https://github.com/Alvarohf/Minimax-python-game">Minimax python game made with pygame</a>
             <p>A game of cutting blocks implemented with a minimax algorithm wich have a custom user interface created with pygame to play against the AI, it lets you choose your cut and see the visual representation of the block, switching colors in each round to see your turn.</p>
             <img src="https://raw.githubusercontent.com/Alvarohf/Minimax-python-game/master/ai_turn.png"  alt="AI turn" />
+            <hr>
             <img class="mt-2" src="https://raw.githubusercontent.com/Alvarohf/Minimax-python-game/master/human_turn.png"  alt="human turn" />
         </div>
         <div class="mt-4">
