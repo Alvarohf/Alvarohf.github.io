@@ -184,6 +184,7 @@ ga('send', 'pageview');
 
 <script src="{{ site.baseurl }}/assets/js/circles.min.js"></script>
 
+{% include cookie-consent.html %}
 
 {% if site.lazyimages == "enabled" %}
 <script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
@@ -195,6 +196,6 @@ ga('send', 'pageview');
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
 
-{% include cookie-consent.html %}
+
 </body>
 </html>
